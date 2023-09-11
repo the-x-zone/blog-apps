@@ -1,3 +1,6 @@
 [submodule "apps/sanity-blog"]
 	path = apps/sanity-blog
 	url = git@github.com:Giorgiosaud/sanity-blog.git
+[submodule "apps/blog-next"]
+	path = apps/blog-next
+	url = git@github.com:the-x-zone/blog-next.git
