@@ -4,3 +4,6 @@
 [submodule "apps/blog-next"]
 	path = apps/blog-next
 	url = git@github.com:the-x-zone/blog-next.git
+[submodule "apps/blog-ds"]
+	path = apps/blog-ds
+	url = git@github.com:the-x-zone/blog-ds.git
