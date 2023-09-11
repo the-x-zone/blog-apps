@@ -1,0 +1,3 @@
+[submodule "apps/sanity-blog"]
+	path = apps/sanity-blog
+	url = git@github.com:Giorgiosaud/sanity-blog.git
