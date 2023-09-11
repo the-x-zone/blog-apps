@@ -1,9 +1,10 @@
 {
   "name": "root",
   "private": true,
-  "workspaces": [
-    "packages/*"
-  ],
+  "scripts": {
+    "lerna": "lerna",
+    "nx": "nx"
+  },
   "dependencies": {},
   "devDependencies": {
     "lerna": "^7.2.0"
